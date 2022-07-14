@@ -20,10 +20,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
- 
-<div style="display: flex; flex-direction=row-reverse">
-   <img align = "end" alt="GuiProgramer" heigth = "20" width="20" src="https://thypix.com/wp-content/uploads/2021/11/jojos-bizarre-dimension-profile-pics-thypix-107-698x700.jpg">
-</div>
 
 ##
 
