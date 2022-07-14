@@ -21,7 +21,7 @@
   
 </div>
  
-<div style="display: flex; justify-content=flex-end">
+<div style="display: flex; flex-direction=row-reverse">
    <img align = "end" alt="GuiProgramer" heigth = "20" width="20" src="https://thypix.com/wp-content/uploads/2021/11/jojos-bizarre-dimension-profile-pics-thypix-107-698x700.jpg">
 </div>
 
