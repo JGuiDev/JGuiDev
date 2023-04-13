@@ -5,7 +5,7 @@
 - 🔭 Atualmente estudante de programação
 - 🌱 Estudando Javascript
 - ✔ Avançar é uma escolha
-- 💻 Desenvolvedor Front-End
+- 💻 Futuro desenvolvedor front-end
 
 <div>
   <a href="https://github.com/GuiProgrammer">
