@@ -8,7 +8,7 @@
 - 💻 Futuro desenvolvedor front-end
 
 <div>
-  <a href="https://github.com/GuiProgrammer">
+  <a href="https://github.com/JGuiDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiProgrammer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiProgrammer&layout=compact&langs_count=7&theme=radical"/>
 </div>
