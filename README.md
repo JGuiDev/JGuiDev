@@ -1,6 +1,5 @@
 ### Olá! Eu sou o GuiProgrammer 
     Seja bem-vindo ao meu perfil GitHub! 
-    Estudo programação a 1 ano e sou um entusiasta dela!
     
 - 🔭 Atualmente estudante de programação
 - 🌱 Estudando Javascript
