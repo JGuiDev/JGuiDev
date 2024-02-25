@@ -1,4 +1,4 @@
-### Olá! Eu sou o GuiProgrammer 
+### Olá! Eu sou o João Guilherme 
     Seja bem-vindo ao meu perfil GitHub! 
     
 - 🔭 Atualmente estudante de programação
